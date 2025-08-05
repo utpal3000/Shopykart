@@ -481,7 +481,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For support and questions:
 
 - **GitHub Issues**: Report bugs and request features
-- **Email**: [your-email@example.com]
+- **Email**: [s.utpal3000@gmail.com]
 - **Documentation**: Check this README for common issues
 
 ## 🚀 Deployment
@@ -518,6 +518,6 @@ For support and questions:
 
 **Version**: 1.0.0  
 **Last Updated**: July 2025  
-**Author**: Utpal Kumar (utpal3000)
+**Author**: Utpal (utpal3000)
 
 Thank you for using Shopykart! 🛒✨
